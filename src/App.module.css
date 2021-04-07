@@ -1,0 +1,19 @@
+/*.Display_Flex {*/
+/*    display: flex;*/
+/*}*/
+
+
+.Command_window{
+    background-color: white;
+    width: 60%;
+    height: 200px;
+    /*border: 1px solid blue;*/
+    /*border-radius: 30px;*/
+    padding: 8px;
+    /*cursor: help;*/
+    display: flex;
+    position: relative;
+    left: 200px;
+    top: 150px;
+    justify-content: center;
+}
